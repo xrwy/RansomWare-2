@@ -1,0 +1,2 @@
+python -m PyInstaller Cyber_Security.py --onefile --add-data "C:\Users\UserName\Desktop\RansomWares\RansomWare\Cyber_Security.pdf;." --noconsole --icon=C:\Users\UserName\Desktop\RansomWares\RansomWare\pdf.ico
+python -m PyInstaller Cyber_Security_2.py --onefile --add-data "C:\Users\UserName\Desktop\RansomWares\RansomWare\Cyber_Security.pdf;." --noconsole --icon=C:\Users\UserName\Desktop\RansomWares\RansomWare\pdf.ico
